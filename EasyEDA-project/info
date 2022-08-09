@@ -1,0 +1,235 @@
+{
+  "uuid": "030e2a8646c235143ba649f1c35521bf",
+  "path": "Offline/Breakout%20for%20EVOC%20104-1481CLDN",
+  "name": "Breakout for EVOC 104-1481CLDN",
+  "content": "",
+  "created_at": "2022-06-15 00:17:48",
+  "updated_at": "2022-08-09 23:03:32",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "c05820736929a4e51863083f71a68344",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "3a58e8deac2f343ad16016c690ddfb7a": 1,
+        "427648b0c70c367fdee72686faf1550d": 2,
+        "27c2eed89915476d8e485f4506beefa8": 1,
+        "b748c9597957c20e30840020c699c4a2": 1,
+        "a838142b5a410e50fce887a5e891a7c1": 1,
+        "f29621326ae148e3809e5921ba1d3d3c": 2,
+        "21507fe462954ebb909a348552869f94": 1,
+        "daa3cf3493c84fa3b0b6a6d427d23f0b": 1,
+        "2cc22d72ed594210bd67f99ea007ce72": 1,
+        "baca4345506748f69420c52d7874f03c": 1,
+        "f70b5afbe7c74e7e826c97f8d050465b": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "DB9_Male",
+          1,
+          "DSUB-TH_DMR-9P",
+          "DB1",
+          {
+            "BOM_Supplier Part": "C185657",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Amphenol",
+            "BOM_Manufacturer Part": "",
+            "puuid": "44c0edd61fae49489643a1b6915a9cad",
+            "uuid": "27c2eed89915476d8e485f4506beefa8"
+          }
+        ],
+        [
+          "DC005-2.0MM",
+          1,
+          "DC-IN-TH_DC005",
+          "DC1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "SOFNG",
+            "BOM_Manufacturer Part": "DC005-2.0MM",
+            "BOM_Supplier Part": "C111567",
+            "puuid": "1337670005c6484c999f9b4c272ee9fe",
+            "uuid": "daa3cf3493c84fa3b0b6a6d427d23f0b"
+          }
+        ],
+        [
+          "PC/104",
+          1,
+          "PC/104",
+          "J1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "c1a36607580043fc81154537debb878c",
+            "uuid": "f70b5afbe7c74e7e826c97f8d050465b"
+          }
+        ],
+        [
+          "K4-12×12_TH",
+          1,
+          "KEY-TH_4P-L12.0-W12.0-P5.00-LS12.5",
+          "KEY1",
+          {
+            "BOM_Supplier Part": "C128053",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "韩国韩荣",
+            "BOM_Manufacturer Part": "K2-1103DP-M4SW-04",
+            "puuid": "a98235252ba749888f74d5b8012c8785",
+            "uuid": "21507fe462954ebb909a348552869f94"
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X8P",
+          1,
+          "IDC-TH_16P-P2.54_C3406",
+          "P1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "IDC Box 2.54mm 16P　Straight",
+            "BOM_Supplier Part": "C3406",
+            "puuid": "1eacb86c820e48ae8f4bb880cd2189e7",
+            "uuid": "3a58e8deac2f343ad16016c690ddfb7a"
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X5P",
+          2,
+          "IDC-TH_10P-P2.54_C5665",
+          "P3,P7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "IDC Box 2.54mm 2X5P",
+            "BOM_Supplier Part": "C5665",
+            "puuid": "7a408c55b5434d9cb56749fdd2cd40fb",
+            "uuid": "427648b0c70c367fdee72686faf1550d"
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X4P",
+          1,
+          "IDC-TH_8P-P2.54-V-R2-C4-S2.54",
+          "P5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "IDC Box 2X4 2.54MM",
+            "BOM_Supplier Part": "C9135",
+            "puuid": "7ceb41e9f586431dab7915fe4bf8eef6",
+            "uuid": "b748c9597957c20e30840020c699c4a2"
+          }
+        ],
+        [
+          "HDR-IDC-2.54-2X6P",
+          1,
+          "IDC-TH_12P-P2.54_BOOMELE-2X6P-2.54MM",
+          "P6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "IDC Box 2X6 2.54MM",
+            "BOM_Supplier Part": "C9136",
+            "puuid": "a74ad15a041a485a9618cfb968dd749b",
+            "uuid": "a838142b5a410e50fce887a5e891a7c1"
+          }
+        ],
+        [
+          "FRJ45012-1100K6K1200",
+          1,
+          "RJ45-TH_FRJ45012-1100K6K1200",
+          "RJ1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C456371",
+            "BOM_Manufacturer": "TXGA(特思嘉)",
+            "BOM_Manufacturer Part": "FRJ45012-1100K6K1200",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "6b53b262a1824ccca2c49c6b29bee314",
+            "uuid": "baca4345506748f69420c52d7874f03c"
+          }
+        ],
+        [
+          "DB15",
+          1,
+          "DB15",
+          "U1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "ca9ed98259054e8dbb9d07755fb99bd2",
+            "uuid": "2cc22d72ed594210bd67f99ea007ce72"
+          }
+        ],
+        [
+          "USB-TYPE A_Female",
+          2,
+          "USB-A-SMD_USB-M-32",
+          "USB1,USB2",
+          {
+            "BOM_Supplier Part": "C42605",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ValuePro",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "5037582c43854c38a8dc93a4df95062a",
+            "uuid": "f29621326ae148e3809e5921ba1d3d3c"
+          }
+        ]
+      ],
+      "updateTime": 1660045429,
+      "createTime": 1655216268,
+      "histories": [],
+      "created_at": "2022-06-15 00:17:48",
+      "updated_at": "2022-08-09 21:43:49"
+    },
+    {
+      "uuid": "1db852e1e874fa076a4c634fee2260ef",
+      "puuid": "030e2a8646c235143ba649f1c35521bf",
+      "title": "PCB_Breakout for EVOC 104-1481CLDN",
+      "filename": "PCB_Breakout for EVOC 104-1481CLDN.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "c1a36607580043fc81154537debb878c": 1,
+        "1eacb86c820e48ae8f4bb880cd2189e7": 1,
+        "6b53b262a1824ccca2c49c6b29bee314": 1,
+        "ca9ed98259054e8dbb9d07755fb99bd2": 1,
+        "44c0edd61fae49489643a1b6915a9cad": 1,
+        "1337670005c6484c999f9b4c272ee9fe": 1,
+        "a98235252ba749888f74d5b8012c8785": 1,
+        "7a408c55b5434d9cb56749fdd2cd40fb": 2,
+        "7ceb41e9f586431dab7915fe4bf8eef6": 1,
+        "a74ad15a041a485a9618cfb968dd749b": 1,
+        "5037582c43854c38a8dc93a4df95062a": 2
+      },
+      "BOM": [],
+      "updateTime": 1660050212,
+      "createTime": 1655216457,
+      "histories": [],
+      "created_at": "2022-06-15 00:20:57",
+      "updated_at": "2022-08-09 23:03:32"
+    }
+  ],
+  "sort": [
+    "0cfce24dc9eae36d74b3996cef56b28a",
+    "d2cf1ce71926fb9e2dfc420dba67960f"
+  ],
+  "title": "Breakout for EVOC 104-1481CLDN",
+  "foldername": "Breakout for EVOC 104-1481CLDN",
+  "schfilename": "Breakout for EVOC 104-1481CLDN.json",
+  "schfilemtime": 1660045429279
+}
